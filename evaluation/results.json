@@ -1,0 +1,8 @@
+{
+  "total_tests": 20,
+  "passed": 18,
+  "failed": 2,
+  "success_rate": "90%",
+  "avg_latency_ms": 120,
+  "repair_rate": "10%"
+}
